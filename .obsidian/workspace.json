@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C 언어 공부.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67f2880ee0c06491",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C 언어 공부.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C 언어 공부.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C 언어 공부.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -159,9 +171,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "203b22690fd11555",
+  "active": "67f2880ee0c06491",
   "lastOpenFiles": [
     "README.md",
+    "무제 파일.md",
     "C 언어 공부.md"
   ]
 }
