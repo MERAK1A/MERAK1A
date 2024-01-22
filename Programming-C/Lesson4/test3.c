@@ -20,5 +20,6 @@ int main()
     printf("%d 과목 점수 합 : %d\n", subject_cnt, (int)num2);
     printf("%d 평균 점수 : %f\n", subject_cnt, num2 / subject_cnt);
 
+
     return 0;
 }

@@ -7,13 +7,12 @@ int main(){
 
     dnum = 150.2;
 
-    printf("%f\n",dnum);
+    printf("%f\n", dnum);
 
-    // inum = dnum; //크기가 작은 형에 대입
-    (double)inum = dnum;
-    printf("%f\n",inum);
+    inum = dnum; //크기가 작은 형에 대입
+    
+    printf("%f\n", inum);
+
 
     return 0;
-
-
 }

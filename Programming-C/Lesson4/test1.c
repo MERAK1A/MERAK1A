@@ -1,11 +1,12 @@
 #include<stdio.h>
 
-int main(){
+int main()
+{
     //0-4
     {
-    int num1 ,num2;
-    num1 = 0,num2 = 4;
-    printf("%d\n",num1 - num2);
+    int num1 , num2;
+    num1 = 0, num2 = 4;
+    printf("%d\n", num1 - num2);
     }
     //3.14 * 2
     {
@@ -23,14 +24,15 @@ int main(){
     {
         int num1 = 30;
         int num2 = 7;
-        printf("%d\n",num1 % num2);
+        printf("%d\n", num1 % num2);
     }
     //(7+32) / 5
     {
-        int num1 = 7+32;
+        int num1 = 7 + 32;
         double num2 = 5.0;
-        printf("%f\n", num1/ num2);
+        printf("%f\n", num1 / num2);
     }
-    return 0;
 
+
+    return 0;
 }
