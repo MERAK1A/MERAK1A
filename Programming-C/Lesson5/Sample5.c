@@ -2,10 +2,9 @@
 
 int main(void)
 {
-
     char res;
 
-    scanf("%c",&res);
+    scanf("%c", &res);
 
     switch (res){
 
@@ -15,6 +14,6 @@ int main(void)
     
     }
 
-    return 0;
 
+    return 0;
 }

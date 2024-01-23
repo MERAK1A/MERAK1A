@@ -15,5 +15,4 @@ switch(num1) {
         break;
     // num1에 대한 다른 case들
 }
-
 ```

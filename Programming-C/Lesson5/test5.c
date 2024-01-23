@@ -5,9 +5,7 @@ int main(void)
     int num1;
 
     printf("성적을 입력하세요.\n");
-
-    scanf("%d",&num1);
-
+    scanf("%d", &num1);
     printf("성적은 %d입니다.\n", num1);
     
     switch (num1){
@@ -32,10 +30,8 @@ int main(void)
             break;
         default:
             printf("잘못 입력함");
-
     }
     
-
 
     return 0;
 }
