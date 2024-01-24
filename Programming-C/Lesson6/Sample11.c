@@ -6,7 +6,7 @@ int main(void)
 
     printf("성적을 입력하세요. (1~5)\n");
 
-    scanf("%d",&res);
+    scanf("%d", &res);
 
     switch (res)
     {
@@ -14,7 +14,6 @@ int main(void)
         case 2:
             printf("조금 더 노력하세요.\n");
             break;
-        
         case 3:
         case 4:
             printf("잘 했습니다.\n");

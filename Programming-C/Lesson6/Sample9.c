@@ -1,10 +1,9 @@
 #include<stdio.h>
 
 int main(void)
-{
-
+{   
     int i, j, ch;
-
+    
     ch = 0;
 
     for ( i = 0; i < 5; i++)// i가 5 보다 작을 때 실행 i++

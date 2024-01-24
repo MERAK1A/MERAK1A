@@ -12,9 +12,8 @@ int main(void)
         {
             continue;
         }
-        printf("%d\n",i);
+        printf("%d\n", i);
     }
-
     /*do while로 푼 것*/
     // i = 0; 
 
@@ -26,7 +25,6 @@ int main(void)
     //     }
     //     printf("%d\n", i);
     // } while (i <= 10);
-    
     
     
     return 0;

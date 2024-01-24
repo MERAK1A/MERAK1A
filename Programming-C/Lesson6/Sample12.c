@@ -6,9 +6,9 @@ int main(void)
     int i;
 
     printf("몇 번째 처리를 건너뛸까요? (1~10)\n");
-    scanf("%d",&res);
+    scanf("%d", &res);
 
-    for ( i = 0; i <= 10; i++)
+    for ( i = 1; i <= 10; i++)
     {
         if(res == i)
         {

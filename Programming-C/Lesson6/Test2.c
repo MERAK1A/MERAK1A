@@ -16,7 +16,7 @@ int main(void)
         }
         
     }
-    printf("시험 점수의 합계는 %d점입니다.",num2);
+    printf("시험 점수의 합계는 %d점입니다.", num2);
 
     
     return 0;

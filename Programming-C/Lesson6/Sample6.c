@@ -2,8 +2,7 @@
 
 int main(void)
 {
-    
-    int num1 = 0;
+    int num1 = 1;
 
     while (num1)
     {
