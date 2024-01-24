@@ -4,7 +4,6 @@ int main(void)
 {
     int num1;       //값이 같은 경우 -> 같은 값입니다.
     int num2;       //크거나 작은 경우 -> 값이 크다,작다.
-  
 
     printf("두 개의 정수를 입력하세요.\n");
 
@@ -21,13 +20,7 @@ int main(void)
     {
         printf("%d가 %d보다 작음", num1, num2);
     }
-    
-
-
-
-
 
 
     return 0;
-
 }
