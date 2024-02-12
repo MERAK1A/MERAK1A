@@ -7,7 +7,7 @@ int main(){
 
     dnum = 150.2;
 
-    printf("%f\n", dnum);
+    printf("%f\n",dnum);
 
     inum = dnum; //크기가 작은 형에 대입
     
