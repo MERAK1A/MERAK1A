@@ -15,6 +15,5 @@ int main(void)
     printf("%s는 문자열입니다.\n", str);
 
 
-
     return 0;
 }
