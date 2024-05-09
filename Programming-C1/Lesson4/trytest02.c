@@ -9,6 +9,6 @@ int main(void)
 
     printf("입력한 문자열 출력 : %s", input);
 
-
+    
     return 0;
 }
