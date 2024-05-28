@@ -12,7 +12,7 @@ int main(void)
     printf("원의 반지름 입력 : ");
     scanf("%f", &radius);
 
-    radius = radius * 2;
+    radius *= radius;
     area = radius * Pi;
 
     printf("원의 면적은 %.2fm^2", area);
