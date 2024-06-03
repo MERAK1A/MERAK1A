@@ -10,7 +10,7 @@
 int main(void)
 {      
     int age, charge;
-    char benefit[13] = "기본 요금";
+    char benefit[] = "기본 요금";
 
     charge = 10000;
 
@@ -22,7 +22,7 @@ int main(void)
     
     if (age < 10)  
     {
-        const char benefit[6] = "무료";
+        const char benefit[] = "무료";
         printf("나이 혜택 : %s\n", benefit);
 
         charge = 0; 
@@ -31,7 +31,7 @@ int main(void)
 
     else if (age >= 10 && age <= 18)
     {
-        const char benefit[20] = "50% 할인";
+        const char benefit[] = "50% 할인";
         printf("나이 혜택 : %s\n", benefit);
 
         charge = charge / 2;
@@ -40,7 +40,7 @@ int main(void)
 
     else if (age >= 65)
     {
-        const char benefit[20] = "30% 할인";
+        const char benefit[] = "30% 할인";
         printf("나이 혜택 : %s\n", benefit);
 
         charge = charge / 0.7;
